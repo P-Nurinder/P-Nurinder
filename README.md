@@ -1,5 +1,5 @@
 - I’m @P-Nurinder
-- I’m interested in ... sytesm design, finance, GUI design, coding
+- I’m interested in ... systems, design, finance, GUIs
 - I’m currently learning ... CS50, Python
 - I’m looking to collaborate on ... creating customizable trading bots
 
